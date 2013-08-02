@@ -1,8 +1,8 @@
-Java-Algorithms-code
+==Java-Algorithms-Code
 ====================
 
 This repo contains examples of my Java programming.
-It'll have code for the following six problems:
+It'll have code for the following five problems:
  - Percolation of a grid
  - KD-Tree
  - Sliding 8-puzzle
