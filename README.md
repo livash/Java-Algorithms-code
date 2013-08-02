@@ -1,4 +1,4 @@
-==Java-Algorithms-Code
+##Java-Algorithms-Code
 ====================
 
 This repo contains examples of my Java programming.
